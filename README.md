@@ -17,7 +17,7 @@ hotfix = urgent fix that needs to be treated urgently
 
 To all the pull requests must be added a description, to explain why the changes is done.
 
-# issue agreements : 
+# Issue agreements : 
 type(global name of issue/feat): Name of Issue/Feat
 
 **Exemple:**
