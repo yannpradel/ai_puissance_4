@@ -18,14 +18,17 @@ hotfix = urgent fix that needs to be treated urgently
 To all the pull requests must be added a description, to explain why the changes is done.
 
 # issue agreements : 
-
 type(global name of issue/feat): Name of Issue/Feat
+
+**Exemple:**
+
+feat(network): Play in network
 
 
 # Branch agreements : 
 fp/number issue-name issue
  
-Exemple:
+**Exemple:**
 
 fp/00001-create-first-classes
 
