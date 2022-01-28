@@ -1,5 +1,5 @@
 # ai_puissance_4
-If the issue you work on requires a code modification either in the ETL or in the Looker LookML, you will need to pull a request (PR).
+If the issue you work on requires a code modification, you will need to pull a request (PR).
 
 
 # Pull Requests agreements:
@@ -15,7 +15,7 @@ chore = for any field update, script update, or adding a new field in a view
 
 hotfix = urgent fix that needs to be treated urgently
 
-To all the pull requests must be added a description, to explain why the changes is done, or why it is added to the ETL/Looker
+To all the pull requests must be added a description, to explain why the changes is done.
 
 # Branch agreements : 
 fp/number issue-name issue
@@ -23,5 +23,8 @@ fp/number issue-name issue
 Exemple:
 
 fp/00001-create-first-classes
+
+
+(fp = fontur pulse)
 
 
