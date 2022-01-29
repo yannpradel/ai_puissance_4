@@ -4,3 +4,8 @@ Square::Square()
 {
     //ctor
 }
+
+Square::~Square()
+{
+    //dtor
+}

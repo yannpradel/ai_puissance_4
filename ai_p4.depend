@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1643370130 source:d:\yann\documents\project github\p4 ai\main.cpp
+1643417809 source:d:\yann\documents\project github\p4 ai\main.cpp
 	<iostream>
 
 1643370117 source:d:\yann\documents\project github\p4 ai\src\case.cpp
@@ -24,4 +24,19 @@
 1643370284 d:\yann\documents\project github\p4 ai\include\plateaujeu.h
 	<vector>
 	<Case.h>
+
+1643461214 source:d:\yann\documents\project github\p4 ai\src\game.cpp
+	"Game.h"
+
+1643461298 d:\yann\documents\project github\p4 ai\include\game.h
+
+1643461232 source:d:\yann\documents\project github\p4 ai\src\player.cpp
+	"Player.h"
+
+1643461298 d:\yann\documents\project github\p4 ai\include\player.h
+
+1643461242 source:d:\yann\documents\project github\p4 ai\src\square.cpp
+	"Square.h"
+
+1643461298 d:\yann\documents\project github\p4 ai\include\square.h
 
