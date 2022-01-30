@@ -9,12 +9,14 @@ Board::Board()
 Board::Board(std::vector<Square> squares)
 {
     m_squares=squares;
+
 }
 
 Board::~Board()
 {
     //dtor
 }
+
 
 void Board::createBoard()
 {

@@ -20,3 +20,4 @@ void gotoligcol(int lig, int col )
     SetConsoleCursorPosition( GetStdHandle( STD_OUTPUT_HANDLE ), mycoord );
 
 }
+

@@ -3,7 +3,8 @@
 #include <vector>
 #include <stdlib.h>
 #include <iostream>
-#include "Square.h"
+#include <Square.h>
+
 
 
 class Board
