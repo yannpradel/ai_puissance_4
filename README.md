@@ -1,5 +1,5 @@
 # ai_puissance_4
-If pull don't give you all the file :
+If pull don't give you all the files :
 
 git fetch origin main
 git reset --hard FETCH_HEAD
