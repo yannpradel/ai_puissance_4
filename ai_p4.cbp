@@ -33,6 +33,14 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+<<<<<<< Updated upstream
+=======
+		<Unit filename="src/Board.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/Square.cpp" />
+		<Unit filename="src/main.cpp" />
+>>>>>>> Stashed changes
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

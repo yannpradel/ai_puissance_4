@@ -1,9 +1,25 @@
 #include <iostream>
+#include "../include/Board.h"
+#include <windows.h>
+#include "Functions.h"
+
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    Board GameBoard;
+    GameBoard.createBoard();
+    GameBoard.display();
+}
+
+void gotoligcol(int lig, int col )
+{
+    COORD mycoord;
+
+    mycoord.X = col;
+    mycoord.Y = lig;
+
+    SetConsoleCursorPosition( GetStdHandle( STD_OUTPUT_HANDLE ), mycoord );
+
 }
