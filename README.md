@@ -1,4 +1,10 @@
 # ai_puissance_4
+If pull don't give you all the file :
+
+git fetch origin main
+git reset --hard FETCH_HEAD
+
+
 If the issue you work on requires a code modification, you will need to pull a request (PR).
 
 
