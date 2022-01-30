@@ -34,6 +34,28 @@ void Board::display()
 {
     for (auto i : m_squares)
     {
-        i.display();
+        i.display(i.getPawn());
+    }
+}
+
+void Board::setPawn(int number,int col,int lig)
+{
+    char displayPlayer;
+    if (number==1)
+    {
+        displayPlayer='X';
+    }
+
+    if (number==2)
+    {
+        displayPlayer='O';
+    }
+
+    for (int i=0;i<m_squares.size();i++)
+    {
+        if(m_squares[i].getX()==col && m_squares[i].getY()==lig)
+        {
+            m_squares[i].setSquare(col,lig,displayPlayer);
+        }
     }
 }

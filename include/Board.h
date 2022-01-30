@@ -6,7 +6,6 @@
 #include <Square.h>
 
 
-
 class Board
 {
     public:
@@ -16,6 +15,7 @@ class Board
 
         void createBoard();
         void display();
+        void setPawn(int number,int col,int lig);
 
         std::vector<Square> getBoard(){return m_squares;}
 
