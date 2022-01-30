@@ -32,7 +32,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Board.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/Square.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Board.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/Square.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

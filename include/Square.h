@@ -1,5 +1,5 @@
-#ifndef CASE_H
-#define CASE_H
+#ifndef SQUARE_H
+#define SQUARE_H
 
 
 class Square
