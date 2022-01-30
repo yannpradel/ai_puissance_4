@@ -6,11 +6,18 @@
 #include <Square.h>
 
 
+
 class Board
 {
     public:
         Board();
+        Board(std::vector<Square> squares);
         ~Board();
+
+        void createBoard();
+        void display();
+
+        std::vector<Square> getBoard(){return m_squares;}
 
     private:
         std::vector<Square> m_squares;

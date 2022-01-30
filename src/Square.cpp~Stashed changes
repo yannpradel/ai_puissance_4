@@ -14,11 +14,9 @@ Square::~Square()
     //dtor
 }
 
-
 void Square::display()
 {
     gotoligcol((m_x*2),(m_y*4));
     std::cout << "|___|" ;
   //  std::cout << "X : " << m_x << "Y : " << m_y << std::endl;
 }
-
