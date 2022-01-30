@@ -1,17 +1,21 @@
 # depslib dependency file v1.0
 82 <<<<<<< Updated upstream
 
-1643544509 source:d:\yann\documents\project github\p4 ai\main.cpp
+1643543379 source:d:\yann\documents\project github\p4 ai\main.cpp
 	<iostream>
 	"../include/Board.h"
 	<windows.h>
 	"Functions.h"
 
-1643543130 shed changes
+1643541368 shed changes
 	<iostream>
 	"../include/Board.h"
 	<windows.h>
 	"Functions.h"
+	<vector>
+	<stdlib.h>
+	<iostream>
+	"Square.h"
 
 1643370117 source:d:\yann\documents\project github\p4 ai\src\case.cpp
 	"Case.h"
@@ -36,31 +40,33 @@
 	<vector>
 	<Case.h>
 
-1643370284 ated upstream
+1643543130 ated upstream
 
-1643544412 source:d:\yann\documents\project github\p4 ai\src\game.cpp
+1643547338 source:d:\yann\documents\project github\p4 ai\src\game.cpp
 	"../include/Game.h"
 
 1643544411 d:\yann\documents\project github\p4 ai\include\game.h
 
-1643544413 source:d:\yann\documents\project github\p4 ai\src\player.cpp
+1643547338 source:d:\yann\documents\project github\p4 ai\src\player.cpp
 	"../include/Player.h"
+
+1643544413 e/Player.h"
 
 1643544411 d:\yann\documents\project github\p4 ai\include\player.h
 
-1643544412 source:d:\yann\documents\project github\p4 ai\src\square.cpp
+1643547338 source:d:\yann\documents\project github\p4 ai\src\square.cpp
 	"../include/Square.h"
 	<stdio.h>
 	<iostream>
 	"../Functions.h"
 
-1643544412 d:\yann\documents\project github\p4 ai\include\square.h
+1643547338 d:\yann\documents\project github\p4 ai\include\square.h
 
-1643544413 source:d:\yann\documents\project github\p4 ai\src\board.cpp
+1643547338 source:d:\yann\documents\project github\p4 ai\src\board.cpp
 	"../include/Board.h"
 	"../include/Square.h"
 
-1643544413 d:\yann\documents\project github\p4 ai\include\board.h
+1643547338 d:\yann\documents\project github\p4 ai\include\board.h
 	<vector>
 	<stdlib.h>
 	<iostream>

@@ -3,9 +3,6 @@
 #include <windows.h>
 #include "Functions.h"
 
-
-using namespace std;
-
 int main()
 {
     Board GameBoard;
