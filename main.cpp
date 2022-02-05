@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Board.h"
+#include "Game.h"
 #include "Player.h"
 #include <windows.h>
 #include "Functions.h"
@@ -11,6 +12,8 @@ int main()
     Board GameBoard;
     GameBoard.createBoard();
 
+    Game TheGame(&GameBoard);
+
     Player P1(1);
     Player P2(2);
 
@@ -18,6 +21,7 @@ int main()
 
     while(endOfGame!=1)
     {
+        endOfGame=TheGame.isOver();
         GameBoard.display();
         P1.playPawn(&GameBoard);
         GameBoard.display();

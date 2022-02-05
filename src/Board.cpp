@@ -59,3 +59,29 @@ void Board::setPawn(int number,int col,int lig)
         }
     }
 }
+
+int Board::isOver()
+{
+  // repeat(7);
+    std::vector<Square> tempSquares;
+    ///vertical condition
+    for (int k=0;k<m_squares.size();k++)
+    {
+        if(m_squares[k].getY()==1)
+        {
+            tempSquares.push_back(m_squares[k]);
+        }
+    }
+
+    for(int j=1;j<7;j++)
+        {
+
+        }
+
+
+    return 0;
+
+    ///horizontal condition
+
+    ///diagonal condition
+}

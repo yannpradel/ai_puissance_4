@@ -16,6 +16,7 @@ class Board
         void createBoard();
         void display();
         void setPawn(int number,int col,int lig);
+        int isOver();
 
         std::vector<Square> getBoard(){return m_squares;}
 

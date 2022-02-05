@@ -3,9 +3,10 @@
 
 82 <<<<<<< Updated upstream
 
-1643574385 source:d:\yann\documents\project github\p4 ai\main.cpp
+1644081601 source:d:\yann\documents\project github\p4 ai\main.cpp
 	<iostream>
 	"Board.h"
+	"Game.h"
 	"Player.h"
 	<windows.h>
 	"Functions.h"
@@ -50,32 +51,33 @@
 
 1643543130 ated upstream
 
-1643573341 source:d:\yann\documents\project github\p4 ai\src\game.cpp
+1644081553 source:d:\yann\documents\project github\p4 ai\src\game.cpp
 	"../include/Game.h"
 
-1643557056 d:\yann\documents\project github\p4 ai\include\game.h
+1644081556 d:\yann\documents\project github\p4 ai\include\game.h
+	"Board.h"
 
-1643575083 source:d:\yann\documents\project github\p4 ai\src\player.cpp
+1644079090 source:d:\yann\documents\project github\p4 ai\src\player.cpp
 	"../include/Player.h"
 
 1643544413 e/Player.h"
 
-1643574152 d:\yann\documents\project github\p4 ai\include\player.h
+1644079090 d:\yann\documents\project github\p4 ai\include\player.h
 	"Board.h"
 
-1643574329 source:d:\yann\documents\project github\p4 ai\src\square.cpp
+1644079090 source:d:\yann\documents\project github\p4 ai\src\square.cpp
 	"../include/Square.h"
 	<stdio.h>
 	<iostream>
 	"../Functions.h"
 
-1643573824 d:\yann\documents\project github\p4 ai\include\square.h
+1644079090 d:\yann\documents\project github\p4 ai\include\square.h
 
-1643574385 source:d:\yann\documents\project github\p4 ai\src\board.cpp
+1644081637 source:d:\yann\documents\project github\p4 ai\src\board.cpp
 	"../include/Board.h"
 	"../include/Square.h"
 
-1643572430 d:\yann\documents\project github\p4 ai\include\board.h
+1644081497 d:\yann\documents\project github\p4 ai\include\board.h
 	<vector>
 	<stdlib.h>
 	<iostream>
