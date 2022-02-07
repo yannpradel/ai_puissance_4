@@ -8,8 +8,6 @@ class Game
         Game();
         ~Game();
 
-    protected:
-
     private:
 };
 
