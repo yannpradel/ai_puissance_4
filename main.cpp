@@ -23,7 +23,6 @@ int main()
         GameBoard.display();
         P2.playPawn(&GameBoard);
     }
-
 }
 
 void gotoligcol(int lig, int col )
