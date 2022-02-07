@@ -15,16 +15,17 @@ Player::~Player()
 void Player::playPawn(Board* boardGame)
 {
     int col;
-    std::cin >> col; //col is y
+    std::cin >> col;
 
     int lig=6;
-    repeat(6){
-    for (auto i : boardGame->getBoard())
+    repeat(6)
+    {
+        for (auto i : boardGame->getBoard())
         {
             if(i.getPawn()!='_' && i.getX()==lig && i.getY()==col)
-                {
-                    lig--;
-                }
+            {
+                lig--;
+            }
         }
     }
 

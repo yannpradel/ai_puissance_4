@@ -85,3 +85,34 @@
 
 1643541368 source:d:\yann\documents\project github\p4 ai\src\main.cpp
 
+1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\board.cpp
+	"../include/Board.h"
+	"../include/Square.h"
+
+1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\board.h
+	<vector>
+	<stdlib.h>
+	<iostream>
+	<Square.h>
+
+1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\square.h
+
+1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\game.cpp
+	"../include/Game.h"
+
+1644257717 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\game.h
+
+1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\player.cpp
+	"../include/Player.h"
+
+1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\player.h
+	"Board.h"
+
+1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\square.cpp
+	"../include/Square.h"
+	<stdio.h>
+	<iostream>
+	"../Functions.h"
+
+1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\functions.h
+

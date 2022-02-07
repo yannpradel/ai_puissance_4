@@ -9,7 +9,6 @@ Board::Board()
 Board::Board(std::vector<Square> squares)
 {
     m_squares=squares;
-
 }
 
 Board::~Board()
@@ -20,9 +19,9 @@ Board::~Board()
 
 void Board::createBoard()
 {
-    for(int i=1;i<8;i++)
+    for(int i=1; i<8; i++)
     {
-        for(int j=1;j<7;j++)
+        for(int j=1; j<7; j++)
         {
             Square oneSquare(j,i);
             m_squares.push_back(oneSquare);
@@ -51,7 +50,7 @@ void Board::setPawn(int number,int col,int lig)
         displayPlayer='O';
     }
 
-    for (int i=0;i<m_squares.size();i++)
+    for (int i=0; i<m_squares.size(); i++)
     {
         if(m_squares[i].getX()==col && m_squares[i].getY()==lig)
         {
