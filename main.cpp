@@ -33,6 +33,5 @@ void gotoligcol(int lig, int col )
     mycoord.Y = lig;
 
     SetConsoleCursorPosition( GetStdHandle( STD_OUTPUT_HANDLE ), mycoord );
-
 }
 
