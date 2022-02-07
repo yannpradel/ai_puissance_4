@@ -95,12 +95,12 @@
 	<iostream>
 	<Square.h>
 
-1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\square.h
+1644258619 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\square.h
 
 1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\game.cpp
 	"../include/Game.h"
 
-1644257717 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\game.h
+1644258619 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\game.h
 
 1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\player.cpp
 	"../include/Player.h"
@@ -108,11 +108,19 @@
 1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\include\player.h
 	"Board.h"
 
-1644257032 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\square.cpp
+1644257717 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\src\square.cpp
 	"../include/Square.h"
 	<stdio.h>
 	<iostream>
 	"../Functions.h"
 
 1644257032 c:\users\yannp\desktop\p4_ai\ai_puissance_4\functions.h
+
+1644257585 source:c:\users\yannp\desktop\p4_ai\ai_puissance_4\main.cpp
+	<iostream>
+	"Board.h"
+	"Player.h"
+	<windows.h>
+	"Functions.h"
+	<unistd.h>
 

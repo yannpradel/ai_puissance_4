@@ -1,9 +1,9 @@
 #include <iostream>
 #include "Board.h"
 #include "Player.h"
-#include <windows.h>
 #include "Functions.h"
 #include <unistd.h>
+#include <windows.h>
 
 int main()
 {
