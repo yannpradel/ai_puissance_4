@@ -3,7 +3,7 @@
 
 82 <<<<<<< Updated upstream
 
-1644081601 source:d:\yann\documents\project github\p4 ai\main.cpp
+1644519034 source:d:\yann\documents\project github\p4 ai\main.cpp
 	<iostream>
 	"Board.h"
 	"Game.h"
@@ -73,7 +73,7 @@
 
 1644079090 d:\yann\documents\project github\p4 ai\include\square.h
 
-1644081637 source:d:\yann\documents\project github\p4 ai\src\board.cpp
+1644519274 source:d:\yann\documents\project github\p4 ai\src\board.cpp
 	"../include/Board.h"
 	"../include/Square.h"
 

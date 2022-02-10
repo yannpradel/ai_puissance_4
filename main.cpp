@@ -19,13 +19,33 @@ int main()
 
     GameBoard.display();
 
-    while(endOfGame!=1)
+    while(1)
     {
-        endOfGame=TheGame.isOver();
+        gotoligcol(0,15);
+        std::cout << "c'est au joueur 1 de jouer !";
         GameBoard.display();
         P1.playPawn(&GameBoard);
         GameBoard.display();
+        endOfGame=TheGame.isOver();
+
+        if(endOfGame==1)
+        {
+            std::cout << "Le joueur 1 a gagne !";
+            break;
+        }
+
+        gotoligcol(0,15);
+        std::cout << "c'est au joueur 2 de jouer !";
+
         P2.playPawn(&GameBoard);
+        GameBoard.display();
+        endOfGame=TheGame.isOver();
+
+        if(endOfGame==2)
+        {
+            std::cout << "Le joueur 2 a gagne !";
+            break;
+        }
     }
 
 }
