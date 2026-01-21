@@ -6,10 +6,10 @@
       "nom_equipe": "Russia",
       "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/ru.dds",
       "joueurs": [
-        { "trackmania_login": "HF7zgYfJRfubIWVuV3gG1g" },
+        { "trackmania_login": "OR8a63RPTIyM49zVPPv4gw" },
+        { "trackmania_login": "vbsngjONQUGPmqBw7hozAg" },
         { "trackmania_login": "bn2GhrXxSEOlFgESUCZ7tw" },
-        { "trackmania_login": "lVsoxs1ZR5aAYBKMZhKLnw" },
-        { "trackmania_login": "vbsngjONQUGPmqBw7hozAg" }
+        { "trackmania_login": "lVsoxs1ZR5aAYBKMZhKLnw" }
       ]
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
