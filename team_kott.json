@@ -6,10 +6,11 @@
       "nom_equipe": "Russia",
       "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/ru.dds",
       "joueurs": [
-        { "trackmania_login": "OR8a63RPTIyM49zVPPv4gw" },
-        { "trackmania_login": "vbsngjONQUGPmqBw7hozAg" },
-        { "trackmania_login": "bn2GhrXxSEOlFgESUCZ7tw" },
-        { "trackmania_login": "lVsoxs1ZR5aAYBKMZhKLnw" }
+        { "trackmania_login": "*fakeplayer1*" },
+        { "trackmania_login": "*fakeplayer2*" },
+        { "trackmania_login": "*fakeplayer3*" },
+        { "trackmania_login": "*fakeplayer4*" },
+        { "trackmania_login": "*fakeplayer5*" }
       ]
     },
     {
@@ -17,14 +18,36 @@
       "nom_equipe": "New Zealand",
       "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/nz.dds",
       "joueurs": [
-        { "trackmania_login": "i6W8MyPFQp6AWLcFKoZx1w" },
-        { "trackmania_login": "tw5sP_MRR8evC67KaR7SFg" },
-        { "trackmania_login": "4KxD0xE0T5uw6jWsHwsp1A" }
+        { "trackmania_login": "*fakeplayer6*" },
+        { "trackmania_login": "*fakeplayer7*" },
+        { "trackmania_login": "*fakeplayer8*" },
+        { "trackmania_login": "*fakeplayer9*" },
+        { "trackmania_login": "*fakeplayer10*" }
+      ]
+    },
+    {
+      "id": 3,
+      "nom_equipe": "Spain",
+      "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/es.dds",
+      "joueurs": [
+        { "trackmania_login": "*fakeplayer11*" },
+        { "trackmania_login": "*fakeplayer12*" },
+        { "trackmania_login": "*fakeplayer13*" },
+        { "trackmania_login": "*fakeplayer14*" },
+        { "trackmania_login": "*fakeplayer15*" }
+      ]
+    },
+    {
+      "id": 4,
+      "nom_equipe": "Portugal",
+      "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/pt.dds",
+      "joueurs": [
+        { "trackmania_login": "*fakeplayer16*" },
+        { "trackmania_login": "*fakeplayer17*" },
+        { "trackmania_login": "*fakeplayer18*" },
+        { "trackmania_login": "*fakeplayer19*" },
+        { "trackmania_login": "*fakeplayer20*" }
       ]
     }
   ]
 }
-
-
-
-
