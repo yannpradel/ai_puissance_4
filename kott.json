@@ -1,0 +1,53 @@
+{
+  "id": 8,
+  "equipes": [
+    {
+      "id": 1,
+      "nom_equipe": "Russia",
+      "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/ru.dds",
+      "joueurs": [
+        { "trackmania_login": "*fakeplayer1*" },
+        { "trackmania_login": "*fakeplayer2*" },
+        { "trackmania_login": "*fakeplayer3*" },
+        { "trackmania_login": "*fakeplayer4*" },
+        { "trackmania_login": "*fakeplayer5*" }
+      ]
+    },
+    {
+      "id": 2,
+      "nom_equipe": "New Zealand",
+      "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/nz.dds",
+      "joueurs": [
+        { "trackmania_login": "*fakeplayer6*" },
+        { "trackmania_login": "*fakeplayer7*" },
+        { "trackmania_login": "*fakeplayer8*" },
+        { "trackmania_login": "*fakeplayer9*" },
+        { "trackmania_login": "*fakeplayer10*" }
+      ]
+    },
+    {
+      "id": 3,
+      "nom_equipe": "Spain",
+      "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/es.dds",
+      "joueurs": [
+        { "trackmania_login": "*fakeplayer11*" },
+        { "trackmania_login": "*fakeplayer12*" },
+        { "trackmania_login": "*fakeplayer13*" },
+        { "trackmania_login": "*fakeplayer14*" },
+        { "trackmania_login": "*fakeplayer15*" }
+      ]
+    },
+    {
+      "id": 4,
+      "nom_equipe": "Portugal",
+      "drapeau": "https://files.gearfive.org/TrackMania/2026/TMGAMES/GameFlags/pt.dds",
+      "joueurs": [
+        { "trackmania_login": "*fakeplayer16*" },
+        { "trackmania_login": "*fakeplayer17*" },
+        { "trackmania_login": "*fakeplayer18*" },
+        { "trackmania_login": "*fakeplayer19*" },
+        { "trackmania_login": "*fakeplayer20*" }
+      ]
+    }
+  ]
+}
