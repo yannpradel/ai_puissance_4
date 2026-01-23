@@ -8,9 +8,7 @@
       "joueurs": [
         { "trackmania_login": "4KxD0xE0T5uw6jWsHwsp1A" },
         { "trackmania_login": "*fakeplayer2*" },
-        { "trackmania_login": "*fakeplayer3*" },
-        { "trackmania_login": "*fakeplayer4*" },
-        { "trackmania_login": "*fakeplayer5*" }
+        { "trackmania_login": "*fakeplayer3*" }
       ]
     },
     {
@@ -20,9 +18,7 @@
       "joueurs": [
         { "trackmania_login": "*fakeplayer6*" },
         { "trackmania_login": "*fakeplayer7*" },
-        { "trackmania_login": "*fakeplayer8*" },
-        { "trackmania_login": "*fakeplayer9*" },
-        { "trackmania_login": "*fakeplayer10*" }
+        { "trackmania_login": "*fakeplayer8*" }
       ]
     },
     {
@@ -32,9 +28,7 @@
       "joueurs": [
         { "trackmania_login": "*fakeplayer11*" },
         { "trackmania_login": "*fakeplayer12*" },
-        { "trackmania_login": "*fakeplayer13*" },
-        { "trackmania_login": "*fakeplayer14*" },
-        { "trackmania_login": "*fakeplayer15*" }
+        { "trackmania_login": "*fakeplayer13*" }
       ]
     },
     {
@@ -44,13 +38,12 @@
       "joueurs": [
         { "trackmania_login": "*fakeplayer16*" },
         { "trackmania_login": "*fakeplayer17*" },
-        { "trackmania_login": "*fakeplayer18*" },
-        { "trackmania_login": "*fakeplayer19*" },
-        { "trackmania_login": "*fakeplayer20*" }
+        { "trackmania_login": "*fakeplayer18*" }
       ]
     }
   ]
 }
+
 
 
 
