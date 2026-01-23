@@ -20,9 +20,9 @@
       "joueurs": [
         { "trackmania_login": "*fakeplayer6*" },
         { "trackmania_login": "*fakeplayer7*" },
-        { "trackmania_login": "*fakeplayer80*" },
-        { "trackmania_login": "*fakeplayer90*" },
-        { "trackmania_login": "*fakeplayer100*" }
+        { "trackmania_login": "*fakeplayer8*" },
+        { "trackmania_login": "*fakeplayer9*" },
+        { "trackmania_login": "*fakeplayer10*" }
       ]
     },
     {
@@ -51,5 +51,6 @@
     }
   ]
 }
+
 
 
